@@ -1,0 +1,1 @@
+square::square(int side);rectangle("Square", side, side){}
